@@ -39,8 +39,8 @@ return [
             'host' => 'smtp.gmail.com',
             'port' => 587,
             'encryption' => 'tls',
-            'username' =>'trungherok@gmail.com',
-            'password' => 'pqugkxdezsujmlvd',
+            'username' =>'',
+            'password' => '',
             'timeout' => null,
             'auth_mode' => null,
         ],
@@ -84,8 +84,8 @@ return [
     */
 
     'from' => [
-        'address' => 'kq909981@gmail.com',
-        'name' =>'FunTravel (Du lịch Việt)',
+        'address' => '',
+        'name' =>'FunTravel',
     ],
 
     /*
